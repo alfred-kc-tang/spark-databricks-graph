@@ -25,7 +25,7 @@ Apache Spark; Databricks; Edge; Graph Analytics; Node; Scala DataFrames.
 
 ## Style Guide
 
-This project follows Scala official [style guide](https://docs.scala-lang.org/style/).
+This project follows the Scala official [style guide](https://docs.scala-lang.org/style/).
 
 ## License
 
